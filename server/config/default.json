@@ -1,0 +1,4 @@
+{
+    "serverPort" : 5000,
+    "dbUrl": "mongodb+srv://nazar:nazar@cluster0.g61oe.mongodb.net/mern-cloud-disk?retryWrites=true&w=majority"
+}
